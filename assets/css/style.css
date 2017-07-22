@@ -1,0 +1,27 @@
+/**
+* Basic-Portfolio Layout
+**/
+
+.mainheader{
+	background-color: #ffffff;
+	border-color: #cccccc;
+}
+.maincontent{
+	background-color: #ffffff; url ("/images/Green_dust_scratchx2.png") no-repeat center;
+	border-color: #dddddd;
+	font-color: #777777;
+	width: 650px;
+}
+
+
+
+.sidebar {
+	width: 270px;
+}
+
+
+#footer {  
+	Width: 100%;
+	background-color: #666666;
+	Position: fixed;
+}
